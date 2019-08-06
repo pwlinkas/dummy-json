@@ -1,0 +1,17 @@
+[
+	{
+		id: 1,
+		title: "Bakemester Harepus",
+		description: "Er en dyktig baker og baker noen store, noen små, noen med sukker på og noen med vanilje. Vanilje er veldig godt."
+	},
+	{
+		id: 2,
+		title: "Klatremus Lillemann",
+		description: "Klatremus er en mus som spille og synge kan."
+	},
+	{
+		id: 3,
+		title: "Gamle Ugle",
+		description: "Sitter vanligvis i et tre og lurer på hvem som går under denne store paraplyen her."
+	}
+]
